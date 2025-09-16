@@ -1,0 +1,179 @@
+    /* estilos de paginador */
+    .buttonSearch {
+        border-radius: 25px;
+        background-color: #EB6060;
+        height: 25px;
+        width: 100px;
+        font-size: 14px;
+        color: white;
+    }
+
+    .submit {
+        display: flex;
+    }
+
+    .clase-contenedor {
+        display: flex;
+        border-radius: 25px;
+        background-color: blue;
+        height: 40px;
+        width: 170px;
+        align-items: center;
+        align-content: center;
+        font-size: 14px;
+        color: white;
+        transition: #EB6060 0.3s;
+    }
+
+    .cerrarCaja {
+        display: flex;
+        border-radius: 25px;
+        background-color: rgb(151, 31, 4);
+        height: 40px;
+        width: 170px;
+        align-items: center;
+        align-content: center;
+        font-size: 14px;
+        color: white;
+        transition: #EB6060 0.3s;
+    }
+
+    /* finde */
+
+    /* estilos de paginador */
+    .paginationDoctor li {
+        display: inline-block;
+        margin-right: 20px;
+        color: white;
+    }
+
+    .paginators {
+        display: flex;
+        justify-content: center;
+    }
+
+    .text-paginator {
+        display: flex;
+        justify-content: right;
+    }
+
+    /* finde */
+
+
+    /* estilos de los cuadros */
+    .mainCard {
+        padding: 20px;
+        height: 10%;
+        width: 80%;
+        border-radius: 5px;
+    }
+
+    .tabla {
+        max-width: 2000px;
+        padding: 20px;
+        white-space: nowrap;
+    }
+
+    .header {
+        margin-bottom: 20px;
+    }
+
+    .bienvenida-conteo div.bienvenida-Admin {
+        width: 800px;
+        height: 180px;
+        padding: 30px;
+    }
+
+    .bienvenida-conteo div.conteo-Admin {
+        width: 800px;
+        height: 180px;
+        padding: 30px;
+    }
+
+    .table-fixed {
+        color: white;
+    }
+
+    table {
+        margin-bottom: 2rem;
+        border: none;
+        table-layout: fixed;
+        width: 100%;
+        height: 200%;
+    }
+
+    table thead {
+        background: none;
+    }
+
+    table tr {
+        border-bottom: 0.5px solid #81818183;
+    }
+
+    table thead tr {
+        border-bottom: none;
+    }
+
+    table tr th {
+        padding: 1rem 0.625rem;
+        font-size: 0.875rem;
+        text-align: center;
+        margin-bottom: 2rem;
+        color: #959ea9;
+    }
+
+    table tr:nth-of-type(even) {
+        background: none;
+    }
+
+    th,
+    td {
+        padding: 10px;
+        text-align: center;
+    }
+
+    /* Finde */
+
+
+    /* estilos de las letras */
+    h1 {
+        font-size: 24px;
+        color: white;
+        font-weight: bold;
+    }
+
+    p {
+        font-size: 12px;
+        color: #959ea9;
+        font-weight: bold;
+    }
+
+    h2 {
+        font-size: 24px;
+        color: white;
+        font-weight: 600;
+    }
+
+    /* finde */
+
+
+    /* estilos de las imagenes */
+    .logoPersonas img {
+        max-width: 70px;
+        max-height: 70px;
+    }
+
+    .logoPersonas {
+        display: flex;
+        align-items: center;
+    }
+
+    /* finde */
+
+
+    /* estilos del click para eliminar doctores */
+    .btn-delete-doctor {
+        color: red;
+    }
+
+    /* finde */

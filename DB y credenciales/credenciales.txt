@@ -1,0 +1,2 @@
+gerente 123456
+cajero 123456
