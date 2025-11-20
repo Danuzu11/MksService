@@ -7,6 +7,12 @@
 
 MVP enfocado en plataforma web para la gestión de inventario, ventas, usuarios y cierre de caja en carnicerías, desarrollado con [CakePHP](https://cakephp.org) 4.x.
 
+**Puntos técnicos destacados:**
+* **Lógica Financiera:** Módulo dedicado al "Cierre de Caja", gestionando importes, entradas y salidas de dinero.
+* **Control de Inventario:** Gestión dinámica de productos, categorías y actualización de stock tras ventas o pedidos.
+* **RBAC (Role-Based Access Control):** Sistema de permisos granular para Administradores, Empleados y Distribuidores.
+* **Gestión de Pedidos:** Flujo completo desde la solicitud del cliente hasta la entrega y facturación.
+  
 ---
 
 ## 🚀 Funcionalidades principales
