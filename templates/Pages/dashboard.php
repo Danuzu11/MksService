@@ -19,7 +19,8 @@
 
     <div class="space-between">
         <div class="bienvenida-Usuario bg-slate-950 rounded-3xl mx-4 my-8 shadow-md ">
-            <h1 style="font-weight: 600;"> Hola! </h1>
+            <!-- <h1 style="font-weight: 600;"> Hola! </h1> -->
+            <h1 style="font-weight: 600;"> Bienvenido a MKSProductions</h1>
         </div>
         <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
@@ -30,9 +31,10 @@
         <div class="bienvenida-Admin bg-slate-950 rounded-3xl mx-4 my-8 shadow-md flex">
             <div>
                 <h1 style="font-weight: 600;"> Bienvenido! </h1>
-                <p class="mt-5 text-justify mr-20">
-                    ¡Bienvenido a app de gestion!
-                    Ingresa tu rol y tu contraseña y disfruta de nuestro servicio
+
+                <p class="mt-5 text-justify mr-20 text-sm">
+                    La excelencia comienza con una buena gestión. <br>
+                    Este es tu centro de control integral, diseñado para administrar cada detalle con precisión y eficiencia. Todo está listo para comenzar la jornada.
                 </p>
             </div>
 
