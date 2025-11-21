@@ -11,7 +11,7 @@
 <div class="bodyController">
 
     <div class="text-center ml-6 mb-3 mt-10">
-        <h1>Editar Empleado</h1>
+        <h1>Editar Distribuidor</h1>
     </div>
 
     <div class="empleado-perfil">

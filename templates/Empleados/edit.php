@@ -34,7 +34,7 @@
 
             <div class="form-group">
                 <label>
-                    <?= __('Salario emnpleado') ?>
+                    <?= __('Salario Empleado') ?>
                 </label>
                 <input type="text" class="form-control rounded shadow-sm" name="salario" pattern="[0-9]+(\.[0-9]+)?" title="Ingrese un numero decimal con punto (por ejemplo, 4.5)"
                     value="<?= $empleado->salario ?>" required>
