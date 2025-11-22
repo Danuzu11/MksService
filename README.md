@@ -1,4 +1,4 @@
-# 🥩 MyksService - Sistema de Inventario y Gestión para Carnicería
+# 🥩 MksService - Sistema de Inventario y Gestión para Carnicería
 
 ![CakePHP](https://img.shields.io/badge/CakePHP-4.x-blue?logo=cakephp&style=flat-square)
 ![Build Status](https://img.shields.io/github/workflow/status/cakephp/app/CI?style=flat-square)
@@ -13,11 +13,16 @@ MVP enfocado en plataforma web para la gestión de inventario, ventas, usuarios 
 * **RBAC (Role-Based Access Control):** Sistema de permisos granular para Administradores, Empleados y Distribuidores.
 * **Gestión de Pedidos:** Flujo completo desde la solicitud del cliente hasta la entrega y facturación.
 
-**Link de Figma**
+
+
+---
+
+## 🖼️ Figma
+
 * Aqui podra visualizar algunas vistas del proyecto.
 
-https://www.figma.com/design/Dti4Ee9PyhIW5jafcanHET/Modelado-Interfaz-MKS?t=ieogG9x0SPu5T4gz-1
-
+**Link de Figma**: https://www.figma.com/design/Dti4Ee9PyhIW5jafcanHET/Modelado-Interfaz-MKS?t=ieogG9x0SPu5T4gz-1
+  
 ---
 
 ## 🚀 Funcionalidades principales
